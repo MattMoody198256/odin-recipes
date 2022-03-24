@@ -1,0 +1,12 @@
+body {
+    background-color:wheat;
+}
+
+h1 {
+    font-family:helvetica;
+}
+
+li {
+    font-size:22px;
+    list-style:none;
+}
